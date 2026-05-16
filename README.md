@@ -97,9 +97,9 @@ A verification system for generating and validating tamper-resistant QR codes ti
 
 ## GitHub Stats
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theabhisheksrivastav\&show_icons=true\&theme=default\&hide_border=true\&count_private=true\&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theabhisheksrivastav&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theabhisheksrivastav\&layout=compact\&hide_border=true\&theme=default\&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theabhisheksrivastav&layout=compact)
 
 ---
 
